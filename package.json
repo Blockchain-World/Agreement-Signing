@@ -1,0 +1,24 @@
+{
+  "name": "didscheme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DID_Scheme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "did"
+  ],
+  "author": "XXX",
+  "license": "ISC",
+  "dependencies": {
+    "@decentralized-identity/ion-tools": "0.0.8",
+    "@enumatech/secp256k1-js": "^1.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "elliptic": "^6.5.4",
+    "express": "^4.17.1",
+    "js-sha3": "^0.8.0",
+    "sjcl": "^1.0.8"
+  }
+}
